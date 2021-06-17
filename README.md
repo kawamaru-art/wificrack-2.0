@@ -1,4 +1,4 @@
-# wificrack-2.0 ALPHA
+# wificrack-2.0 ALPHA-TEST
 
 # command:
 
