@@ -117,7 +117,7 @@ def startmoni():
         print ("|                (start/stop                             |")
         print ("|                (kembali                                |")
         print ("|________________________________________________________|")
-    elif monit == "use start/stoo":
+    elif monit == "use start/stop":
         inter = input("masukan interfaces:")
         sta = input("apakah anda ingin start/stop interfaces: ")
         os.system("airmon-ng"+ sta + inter)
