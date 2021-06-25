@@ -11,7 +11,7 @@
 * `git clone https://github.com/alanlol12/wificrack-2.0`
 *  `cd wificrack-2.0`
 # install
-* `chmod +x install.sh
+* `chmod +x install.sh`
 * `./install.sh atau bash install.sh`
 # run
 * `sudo python3 wificrack2.0.py`
