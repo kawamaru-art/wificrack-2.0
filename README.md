@@ -1,4 +1,4 @@
-### wificrack-2.0 
+# wificrack-2.0 
 Wificrack mengunakan aircrack-ng
 ![20210625_110302](https://user-images.githubusercontent.com/81538835/123363554-508f1e00-d562-11eb-9afb-dabded8f2a60.png)
 ![GitHub top language](https://img.shields.io/github/languages/top/alanlol12/wificrack-2.0?logo=python)
@@ -11,21 +11,21 @@ Wificrack mengunakan aircrack-ng
  
 ## command:
 
-#  kembali:
+###  kembali:
 * `exemple: kembali`
-#  use:
+###  use:
 * `exemple: use (nama script)`
 
-# clone
+### clone
 * `git clone https://github.com/alanlol12/wificrack-2.0`
 *  `cd wificrack-2.0`
-# install
+### install
 * `chmod +x install.sh`
 * `./install.sh atau bash install.sh`
-# run
+### run
 * `sudo python3 wificrack2.0.py`
 
-# terispirasi dari:
+### terispirasi dari:
 <p align="center">
 <a href="https://www.metasploit.com">metasploit & </a>
 <a href="https://github.com/LionSec/xerosploit">xerosploit</a>
