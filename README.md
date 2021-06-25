@@ -5,6 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/alanlol12/wificrack-2.0?logo=kali%20linux)
 [![Build](https://img.shields.io/badge/Supported_OS-linux-blue.svg)]()
 [![Build](https://img.shields.io/badge/wificrack-2.0-orange.svg)]()
+[![Build](https://img.shields.io/badge/version-linux-cyan.svg)]()
 
 # command:
 
