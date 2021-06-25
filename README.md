@@ -18,5 +18,7 @@
 
 # terispirasi dari:
 metasploit
+* `https://www.metasploit.com`
 
 xerosploit
+* `https://github.com/LionSec/xerosploit`
