@@ -25,8 +25,9 @@ Wificrack mengunakan aircrack-ng
 # run
 * `sudo python3 wificrack2.0.py`
 
+<p align="center">
 # terispirasi dari:
-metasploit
-* `https://www.metasploit.com`
+<A href="https://www.metasploit.com">metasploit</a>
 
-<a href="https://github.com/LionSec/xerosploit">xerosploit<a>
+<a href="https://github.com/LionSec/xerosploit">* xerosploit</a>
+</p>
