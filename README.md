@@ -27,6 +27,6 @@ Wificrack mengunakan aircrack-ng
 
 # terispirasi dari:
 <p align="center">
-<a href="https://www.metasploit.com">metasploit</a>
+<a href="https://www.metasploit.com">metasploit & </a>
 <a href="https://github.com/LionSec/xerosploit">xerosploit</a>
 </p>
